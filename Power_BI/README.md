@@ -12,3 +12,7 @@
  Filmes mais bem avaliados arrecadam mais? Qual o gênero mais lucrativo?
 
  🔗Dificuldade: ⭐⭐⭐☆☆ (Ótimo para cruzar API com dados históricos)
+
+--------
+Links
+API: https://www.omdbapi.com/

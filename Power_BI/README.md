@@ -9,6 +9,6 @@
    3. Power BI: Criar gráficos mostrando os gêneros mais bem avaliados, evolução de bilheteria e médias por diretor/ator.
 
  📊Insight esperado
-   Filmes mais bem avaliados arrecadam mais? Qual o gênero mais lucrativo?
+ Filmes mais bem avaliados arrecadam mais? Qual o gênero mais lucrativo?
 
- 🔗 Dificuldade: ⭐⭐⭐☆☆ (Ótimo para cruzar API com dados históricos)
+ 🔗Dificuldade: ⭐⭐⭐☆☆ (Ótimo para cruzar API com dados históricos)

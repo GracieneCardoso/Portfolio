@@ -1,4 +1,4 @@
-﻿# 🎬Análise de Filmes Populares e Avaliações do IMDb
+﻿## 🎬Análise de Filmes Populares e Avaliações do IMDb
 
 🎯Objetivo:
   Criar um dashboard com tendências de filmes mais bem avaliados e sua bilheteria.

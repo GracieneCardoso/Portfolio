@@ -1,0 +1,14 @@
+Este é o dicionário de dados do dataset usado no projeto 4. Os dados são fictícios,
+mas as variáveis são de problemas reais.
+
+• id: Identificador único para cada lançamento.
+• data_lancamento: A data em que o lançamento contábil está sendo feito.
+• conta_debito: Conta contábil a ser debitada.
+• conta_credito: Conta contábil a ser creditada.
+• valor: Valor monetário do lançamento.
+• documento: Documentação comprobatória da operação.
+• natureza_operacao: Descrição do evento contábil.
+• centro_custo: Setor ou departamento responsável pela operação.
+• impostos: Impostos e tributos envolvidos, se aplicável.
+• moeda: Moeda utilizada na operação, se aplicável.
+• taxa_conversao: Taxa de conversão para a moeda nacional, se aplicável.

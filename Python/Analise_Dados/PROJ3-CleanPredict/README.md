@@ -21,13 +21,17 @@ para este projeto e será fornecido a você junto com os scripts e demais arquiv
 
 ---
 🌐 FONTE:
-
  https://www.kaggle.com/blastchar/telco-customer-churn
+
+- dataset.csv: arquivo de dados baixado da fonte.
+Link: https://drive.google.com/file/d/1FA4oZZRVp3O2VKtzRXTy4dzPkGkiRQ3c/view?usp=sharing
+
+- dataset_limplo.csv: arquivo com dados tratados
+Link: https://drive.google.com/file/d/1tuKL0qFRtrZklSQNw8vUrdZleNfbfD-s/view?usp=sharing
+ 
 
 ---
 📂 CONTÉM NESTE DIRETÓRIO:
-- dataset_limplo.csv: arquivo com dados tratados.
-- dataset.csv: arquivo de dados baixado da fonte.
 - dicionario: dicionario de dados do arquivo dataset.csv.
 - imgProj3.png: imagem de abertura do projeto referenciado neste README.
 - outliers.png: imagem demonstrativa de outliers usando no arquivo jupyter notebook.

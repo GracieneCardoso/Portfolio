@@ -1,0 +1,21 @@
+Este dataset contém o registro de um experimento clínico envolvendo camundongos, com o objetivo de testar a eficácia de diferentes medicamentos no tratamento ou controle do crescimento de tumores.
+
+Cada linha do dataset representa uma observação ou medição de um camundongo em um determinado momento durante o estudo. 
+
+Aqui está uma descrição mais detalhada de cada coluna:
+
+ID Mouse: Um identificador único para cada camundongo utilizado no estudo. Por exemplo, "m000" e "m001" são identificações para camundongos individuais.
+
+Medicamento: O nome do medicamento administrado ao camundongo. Este campo indica qual tratamento específico foi dado ao camundongo em cada ponto de medição, como "Placebo", "Ramicane", "Capomulin" e "Infubinol".
+
+Sexo: O sexo do camundongo, indicado como "Masculino" ou "Feminino".
+
+Idade_Meses: A idade do camundongo no início do estudo, expressa em meses.
+
+Peso (g): O peso do camundongo, medido em gramas.
+
+Timepoint: Um ponto de tempo específico durante o estudo quando a medição foi tomada, geralmente medido em dias. Isto ajuda a acompanhar a progressão do efeito do medicamento ao longo do tempo.
+
+Tumor Volume (mm³): O volume do tumor no camundongo, medido em milímetros cúbicos. Esta é uma métrica chave usada para avaliar a eficácia do tratamento do medicamento sobre o crescimento do tumor.
+
+Sítios Metastáticos: O número de sítios metastáticos observados no camundongo no momento da medição. Os sítios metastáticos são locais onde o câncer original se espalhou para outras partes do corpo, indicando a severidade ou agressividade do câncer.

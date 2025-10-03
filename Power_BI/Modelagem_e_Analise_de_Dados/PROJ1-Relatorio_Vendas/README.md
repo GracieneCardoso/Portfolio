@@ -12,7 +12,9 @@ Para   solucionar   essa   demanda,  desenvolvi um modelo de dados relacional em
 ---
 
 🌐 LINK DASHBOARD
+
 https://app.powerbi.com/view?r=eyJrIjoiMGUyMGIxOTktN2UxMi00MmFmLTg0ZjUtNmI3MDFkYWFiMmQ2IiwidCI6ImUxYzM5YjU0LWYxZGYtNGJkYy05N2VlLWMxOTc0N2JkZjFiMSJ9
+
 ---
 
 📂 CONTÉM NESTE DIRETÓRIO:

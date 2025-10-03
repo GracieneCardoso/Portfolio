@@ -18,14 +18,16 @@ Para   solucionar   essa   demanda,  desenvolvi um modelo de dados relacional em
 📂 CONTÉM NESTE DIRETÓRIO:
 - imgProj1.png: imagem de abertura do projeto referenciado neste README.
 - diagPrj1: diagrama do modelo relacional do projeto
-- imgDashProj1: Imagem do dashboard do projeto
+- pbi_relatorio_vendas.png: Imagem do dashboard do projeto
 - dicionario_dados.md: dicionário de dados do projeto
 
 ---
 
-🔶 DIAGRAMA RELACIONAL 
+🔶 DIAGRAMA RELACIONAL
+
 ![Diagrama Relacional](diagProj1.png)
 
 ---
 📊 PREVIEW DASHBOARD
+
 ![Preview Dashboard](pbi_relatorio_vendas.png)

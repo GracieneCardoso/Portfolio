@@ -20,6 +20,7 @@ Para   solucionar   essa   demanda,  desenvolvi um modelo de dados relacional em
 - diagPrj1: diagrama do modelo relacional do projeto
 - pbi_relatorio_vendas.png: Imagem do dashboard do projeto
 - dicionario_dados.md: dicionário de dados do projeto
+- Relatorio_vendas.pbix: Dashboard do Relatório de Vendas em Power BI
 
 ---
 

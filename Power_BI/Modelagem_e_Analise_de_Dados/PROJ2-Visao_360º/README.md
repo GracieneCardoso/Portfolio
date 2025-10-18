@@ -37,9 +37,6 @@ Essa integração será a base para a criação de painéis interativos no Power
 
 📂 CONTÉM NESTE DIRETÓRIO:
 - imgProj1.png: imagem de abertura do projeto referenciado neste README.
-- diagPrj1: diagrama do modelo relacional do projeto
-- pbi_relatorio_vendas.png: Imagem do dashboard do projeto
-- dicionario_dados.md: dicionário de dados do projeto
 - Painel_Visao_360.pbix: Dashboard em Power BI com a visão requerida
 
 ---

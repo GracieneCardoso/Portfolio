@@ -1,4 +1,4 @@
-# PROJETO 2 - VISÃO 360 DE VENDAS - POWER BI E DATA WAREHOUSE
+# PROJETO 2 - QUANTUMPATH
 
 ![Abertura do projeto](imgIntro.png)
 

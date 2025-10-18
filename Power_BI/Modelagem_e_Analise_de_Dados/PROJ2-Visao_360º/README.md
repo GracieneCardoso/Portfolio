@@ -5,31 +5,33 @@
 
 🏢 PROBLEMA DE NEGÓCIO:
 
-A Comercial Aliança S/A, uma rede nacional de varejo multicanal, enfrentava o desafio de consolidar informações de vendas provenientes de diversos sistemas — lojas físicas, e-commerce e parceiros regionais — em uma única fonte confiável de análise.
-A ausência de integração entre as bases dificultava a obtenção de indicadores estratégicos, como desempenho de produtos, comportamento de clientes e retorno de campanhas promocionais.
+A Comercial Aliana S.A é uma empresa varejista de médio porte que atua em múltiplos canais de venda — lojas físicas, e-commerce e representantes regionais.
+Com o crescimento do volume de transações e a dispersão das fontes de dados, a empresa passou a enfrentar dificuldades para consolidar e analisar informações de vendas de forma integrada.
 
-Para reverter esse cenário, a empresa decidiu investir em uma solução completa de Business Intelligence (BI), fundamentada em um modelo dimensional de dados e dashboards interativos no Power BI.
+Relatórios gerenciais eram produzidos manualmente, com dados extraídos de sistemas distintos (ERP, planilhas e plataforma de e-commerce), o que resultava em retrabalhos, inconsistências e falta de agilidade na tomada de decisões.
+
+Buscando aprimorar sua inteligência de negócios e criar uma base sólida para análises estratégicas, a empresa contratou Graciene Cardoso para conduzir o projeto de construção e implementação de um modelo dimensional de vendas, integrando as informações em um Data Warehouse e disponibilizando análises interativas em Power BI.
 
 🏹 DESAFIO DO PROJETO:
 
-Construir e implementar um modelo dimensional de vendas robusto, escalável e voltado à tomada de decisão estratégica.
+O principal desafio consiste em estruturar e unificar dados de múltiplas fontes, garantindo padronização, qualidade e consistência das informações.
+Além disso, é necessário definir um modelo dimensional eficiente, capaz de suportar análises dinâmicas de vendas sob diferentes perspectivas — produto, cliente, tempo, região e canal de venda.
 
-O projeto engloba todas as etapas de um pipeline de BI corporativo, desde o design do modelo de dados até a entrega de painéis analíticos intuitivos e visuais.
+Outro ponto crítico envolve a integração entre o Data Warehouse e o Power BI, assegurando que as consultas sejam otimizadas e que os dashboards ofereçam uma experiência fluida e intuitiva aos usuários de negócio.
 
 🎯 OBJETIVOS DO PROJETO:
 
-1. Modelagem Dimensional
-Criar um modelo de dados baseado em esquema estrela, estruturando as informações em:
-- Tabela Fato: registro consolidado de transações de vendas;
-- Tabelas Dimensão: descrições detalhadas de tempo, cliente, produto, vendedor, loja e promoção.
+O projeto tem como objetivo desenvolver um sistema abrangente de análise e relatório de vendas, baseado em um modelo dimensional de dados estruturado em esquema estrela.
 
-2. Implementação de Data Warehouse (DW)
-- Consolidação, transformação e carga dos dados oriundos de diferentes sistemas de origem;
-- Organização em camadas (staging, integração e apresentação) para garantir governança e performance.
+O trabalho envolve:
+- Construção de um Data Warehouse corporativo, consolidando dados de diferentes fontes;
+- Implementação de tabelas fato e dimensões (tempo, produto, cliente, vendedor, loja etc.);
+- Criação de processos de ETL para extração, transformação e carga dos dados;
+- Conexão do Power BI ao Data Warehouse para geração de dashboards interativos e relatórios analíticos.
 
-3. Integração com Power BI
-- Conexão direta do Power BI ao DW, permitindo consultas em tempo real e atualização automática dos dashboards;
-- Criação de relatórios interativos para acompanhamento do desempenho de vendas, identificação de padrões de consumo e análise de campanhas promocionais.
+O sistema permitirá análises sobre desempenho de vendas, padrões de consumo, eficácia de promoções e indicadores de rentabilidade, apoiando a tomada de decisões baseada em dados.
+
+
 
 ---
 

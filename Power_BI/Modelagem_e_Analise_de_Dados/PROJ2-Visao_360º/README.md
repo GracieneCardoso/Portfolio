@@ -10,7 +10,7 @@ Com o crescimento do volume de transações e a dispersão das fontes de dados, 
 
 Relatórios gerenciais eram produzidos manualmente, com dados extraídos de sistemas distintos (ERP, planilhas e plataforma de e-commerce), o que resultava em retrabalhos, inconsistências e falta de agilidade na tomada de decisões.
 
-Buscando aprimorar sua inteligência de negócios e criar uma base sólida para análises estratégicas, a empresa contratou Graciene Cardoso para conduzir o projeto de construção e implementação de um modelo dimensional de vendas, integrando as informações em um Data Warehouse e disponibilizando análises interativas em Power BI.
+Buscando aprimorar sua inteligência de negócios e criar uma base sólida para análises estratégicas, a empresa solicitou a construção e implementação de um modelo dimensional de vendas, integrando as informações em um Data Warehouse e disponibilizando análises interativas em Power BI.
 
 🏹 DESAFIO DO PROJETO:
 
